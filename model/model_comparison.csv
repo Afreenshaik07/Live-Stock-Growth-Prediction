@@ -1,0 +1,4 @@
+model,r2_score
+Linear Regression,0.78
+Random Forest,0.92
+Support Vector Regression,0.85

@@ -1,0 +1,6 @@
+{
+  "model_name": "Livestock Growth Prediction Model",
+  "version": "1.0",
+  "trained_on": "Synthetic Livestock Dataset",
+  "algorithm": "Random Forest Regressor"
+}
